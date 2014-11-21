@@ -15,4 +15,3 @@ To run the examples, try something like:
 ```sh
 $ python examples/binaural.py | aplay
 ```
-
